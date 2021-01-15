@@ -1,0 +1,21 @@
+﻿  NanHao_main_candidates.cpp
+  NanHao_main_statistics.cpp
+  NanHao_main_votes.cpp
+  NanHao__main.cpp
+  scanxprlib.cpp
+  NanHao.cpp
+  main.cpp
+  qrc_NanHao.cpp
+  moc_NanHao.cpp
+  moc_NanHao__main.cpp
+  moc_NanHao_main_candidates.cpp
+  moc_NanHao_main_votes.cpp
+  moc_NanHao_main_statistics.cpp
+Qt5AxContainerd.lib(qaxbase.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxbase.obj)”或在“D:\naohao_wei\Debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxwidget.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxwidget.obj)”或在“D:\naohao_wei\Debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxobject.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxobject.obj)”或在“D:\naohao_wei\Debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxtypes.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxtypes.obj)”或在“D:\naohao_wei\Debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxutils.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxutils.obj)”或在“D:\naohao_wei\Debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxBased.lib(qaxtypefunctions.obj) : warning LNK4099: 未找到 PDB“Qt5AxBased.pdb”(使用“Qt5AxBased.lib(qaxtypefunctions.obj)”或在“D:\naohao_wei\Debug\Qt5AxBased.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  NanHao.vcxproj -> D:\naohao_wei\Debug\NanHao.exe
+  NanHao.vcxproj -> D:\naohao_wei\Debug\NanHao.pdb (Full PDB)

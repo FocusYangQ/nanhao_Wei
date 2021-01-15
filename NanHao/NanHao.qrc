@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="NanHao">
+    <file>image/background.jpg</file>
+    <file>image/f.jpg</file>
+    <file>image/h.jpg</file>
+    <file>image/i.jpg</file>
+    <file>image/j.jpg</file>
+    <file>image/l.jpg</file>
+    <file>image/e.jpg</file>
+    <file>image/c.jpg</file>
+    <file>image/d.jpg</file>
+  </qresource>
+</RCC>

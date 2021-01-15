@@ -1,0 +1,19 @@
+QMAKE_CXX.INCDIRS = \
+    ..\\pc_paper_template_definition2 \
+    D:\\VS\\VC\\include \
+    D:\\VS\\VC\\atlmfc\\include \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.10240.0\\ucrt" \
+    "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v7.1A\\include"
+QMAKE_CXX.LIBDIRS = \
+    ..\\pc_paper_template_definition2 \
+    D:\\VS\\VC\\lib \
+    D:\\VS\\VC\\atlmfc\\lib \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.10240.0\\ucrt\\x86" \
+    "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v7.1A\\lib"
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1900
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 190024215
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
